@@ -1,7 +1,4 @@
-# cs457-557-f19-pa2-yashpatel007
-cs457-557-f19-pa2-yashpatel007 created by GitHub Classroom
-
-Name : Yash Patel
+Project : Chord-Distributed-Hash-Table
 
 <b>Discription</b> : 
 	This is an implementation Chord Distributed Hash Table(using Apache thrift as IDL). The program implementation is done in java.
